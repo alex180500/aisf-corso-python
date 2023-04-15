@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="images/logo_corso.jpg" width=300/>
-  <h1 align="center">Python: un Approccio da Fisico</h1>
+  <img src="images/logo_corso.jpg" width=200/>
+  <!-- <h1 align="center">Python: Un Approccio Da Fisico</h1> -->
 </p>
 
-Questa repository serve come risorsa per chiunque voglia approcciare Python con un punto di vista da "Fisico". 
+# Introduzione
+
+Questa repository serve come base al corso "Python: Un Approccio Da Fisico" serve come risorsa per chiunque voglia approcciare Python con un punto di vist
 
 
 ## Per Iniziare
@@ -16,7 +18,10 @@ Ora possiamo usare l'**Anaconda Prompt** per gestire i nostri pacchetti e gli am
 
 ### Python ed Ambienti
 
-asod
+Per iniziare
+
+
+
 
 ## Consigli per Windows
 
