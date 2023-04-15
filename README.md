@@ -5,7 +5,7 @@
 Questa repository serve come base al corso "Python: Un Approccio Da Fisico" serve come risorsa per chiunque voglia approcciare Python con un punto di vist
 
 
-## Per Iniziare
+# Per Iniziare
 
 Per prima cosa dobbiamo installare Python! Per farlo useremo **Miniconda** che ci installerà `conda`, un gestore di ambienti di Python (per sapere cosa è un ambiente [guarda sotto](#python-ed-ambienti)).
 
@@ -13,7 +13,7 @@ Perciò scaricate l'[ultima versione di Miniconda per il vostro OS](https://docs
 
 Ora possiamo usare l'**Anaconda Prompt** per gestire i nostri pacchetti e gli ambienti.
 
-### Python ed Ambienti
+## Python ed Ambienti
 
 Per iniziare
 
