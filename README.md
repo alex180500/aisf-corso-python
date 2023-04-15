@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="images/logo_corso.jpg" width=200/>
-  <!-- <h1 align="center">Python: Un Approccio Da Fisico</h1> -->
-</p>
+![aisf_python_logo](images/logo_corso.png)
 
 # Introduzione
 
