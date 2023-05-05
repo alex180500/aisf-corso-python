@@ -1,4 +1,4 @@
-![aisf_python_logo](images/logo_corso.png)
+![logo](images/logo_corso.png)
 
 # Introduzione
 
@@ -12,7 +12,7 @@ Il corso è diviso in due notebook corrispondenti alle due giornate del 21/04/23
 
 - **Giornata 1:** introduzione, sintassi di base, pacchetti e programmazione ad oggetti, vettori e rng su numpy.
 
-- **Giornata 2:** funzioni avanzate di numpy, grafici e stili con matplotlib, funzioni utili di scipy, fit ai minimi quadrati, esempi di analisi di laboratorio e di simulazioni numeriche.
+- **Giornata 2:** grafici e stili con matplotlib, funzioni avanzate di numpy, funzioni utili di scipy, fit ai minimi quadrati, esempi di analisi di laboratorio e di simulazioni numeriche.
 
 # Per Iniziare
 
@@ -63,13 +63,13 @@ Per altre informazioni consultate la [guida ufficiale di Jupyter Notebook.](http
 
 ## Informazioni Utili su Conda
 
-Quando volete aggiornare il vostro ambiente attivatelo e poi eseguite `conda update --all` che aggiornerà tutti i pacchetti.
+Per installare un pacchetto su conda basta usare `conda install nome_pacchetto`, quando volete aggiornare il vostro ambiente, prima attivatelo (se non lo è già) e poi eseguite `conda update --all` che aggiornerà tutti i pacchetti.
 
-Nella rara eventualità che il pacchetto che vi serve non sia presente su _conda-forge_ potete usare **pip** il gestore di pacchetti di base di Python basato sul **Python Package Index** o **PyPi**. Per installare un pacchetto con _pip_ basta eseguire `pip install nome_pacchetto`.
+Nella rara eventualità che il pacchetto che vi serve non sia presente su _conda-forge_ potete usare **pip**, il gestore di pacchetti di base di Python basato sul **Python Package Index** o **PyPi**. Per installare un pacchetto con _pip_ basta eseguire `pip install nome_pacchetto`, _però..._
 
-Vi consiglio caldamente però di creare un nuovo ambiente quando dovete farlo, installare prima tutti i pacchetti con conda e poi quelli che non ci sono su conda-forge con pip solo alla fine. Vi consiglio di leggere bene [l'articolo nella wiki ufficiale su questo argomento.](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#pip-in-env)
+Vi consiglio caldamente di creare un nuovo ambiente quando dovete farlo, installare prima tutti i pacchetti da conda-forge e poi quelli rimanenti da pip solo alla fine. Vi consiglio di leggere bene [l'articolo nella wiki ufficiale su questo argomento.](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#pip-in-env)
 
-Se avete bisogno di ricordare un comando [qui trovate la cheat sheet di Conda.](https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf)
+Se avete bisogno di ricordarvi i comandi [qui trovate la **cheat sheet di Conda**.](https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf)
 
 In generale per qualsiasi dubbio su Conda [visualizzate la sua ottima documentazione.](https://docs.conda.io/projects/conda/en/latest/user-guide/index.html)
 
@@ -88,9 +88,11 @@ Inoltre, potreste volere far girare degli script all'avvio di Powershell. Per fa
 ## Lista di Pacchetti Utili
 
 - [**tqdm:**](https://tqdm.github.io/) libreria per creare delle barre di caricamento durante i loop
+- [**uncertainties:**](https://pythonhosted.org/uncertainties/) libreria fantastica per effettuare operazioni tra numeri con errori associati (funziona anche con array di numeri)
 - [**pandas:**](https://pandas.pydata.org/docs/) libreria per data analysis
 - [**streamlit:**](https://docs.streamlit.io/) una libreria che permette di creare interfacce grafiche semplicemente e caricare le app sul cloud
 - [**black:**](https://black.readthedocs.io/en/stable/) un formattatore di codice che segue lo [stile PEP 8](https://peps.python.org/pep-0008/)
+- [**lmfit:**](https://lmfit.github.io/lmfit-py/intro.html) pacchetto per effettuare fit più complessi
 - [**plotly**](https://plotly.com/python/), [**seaborn**](https://seaborn.pydata.org/) e [**bokeh:**](https://docs.bokeh.org/en/latest/) altre librerie per la visualizzazione
 - [**sympy:**](https://docs.sympy.org/latest/index.html) libreria per calcolo letterale (tipo Mathematica)
 - [**python-igraph**](https://python.igraph.org/en/stable/) e [**networkx:**](https://networkx.org/documentation/stable/index.html) librerie per studiare reti complesse
