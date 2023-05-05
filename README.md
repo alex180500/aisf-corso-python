@@ -4,7 +4,7 @@
 
 Questa repository serve come base al corso _"Python: Un Approccio Da Fisico"_ ma anche per qualsiasi curioso che vuole inziare a usare Python per il calcolo scientifico.
 
-Per visualizzare i notebook potete o visualizzarli direttamente su GitHub andando a cliccare su [**intro_python_1**](intro_python_1.ipynb) e su [**intro_python_2**](intro_python_2.ipynb) oppure scaricarli per farli girare in locale `inserirò un link qui a fine corso`.
+Per visualizzare i notebook potete o visualizzarli direttamente su GitHub andando a cliccare su [**intro_python_1**](intro_python_1.ipynb) e su [**intro_python_2**](intro_python_2.ipynb) oppure scaricarli per farli girare in locale [andando nelle release o cliccando qui](https://github.com/alex180500/aisf-corso-python/releases/download/release/corso-release.zip).
 
 ## Struttura del Corso
 
@@ -102,4 +102,4 @@ Inoltre, potreste volere far girare degli script all'avvio di Powershell. Per fa
 
 Tutto il materiale è stato creato da **Alessandro Romancino** per il suddetto corso tenuto dal comitato locale _AISF Palermo_. Il materiale del corso è distribuito con _licenza MIT_, perciò siete liberi di **fare quello che volete** con il materiale.
 
-Se volete, potete citarmi linkando il mio profilo [`https://github.com/alex180500`](https://github.com/alex180500). **Grazie!**
+Se volete, potete citarmi linkando il mio profilo [https://github.com/alex180500](https://github.com/alex180500). **Grazie!**
