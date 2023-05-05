@@ -4,7 +4,7 @@
 
 Questa repository serve come base al corso _"Python: Un Approccio Da Fisico"_ ma anche per qualsiasi curioso che vuole inziare a usare Python per il calcolo scientifico.
 
-Per visualizzare i notebook potete o visualizzarli direttamente su GitHub andando a cliccare su [**intro_python_1**](intro_python_1.ipynb) e su [**intro_python_2**](intro_python_2.ipynb) oppure scaricarli per farli girare in locale `guardando nelle release (qua andare ad inserire link)`.
+Per visualizzare i notebook potete o visualizzarli direttamente su GitHub andando a cliccare su [**intro_python_1**](intro_python_1.ipynb) e su [**intro_python_2**](intro_python_2.ipynb) oppure scaricarli per farli girare in locale `inserirò un link qui a fine corso`.
 
 ## Struttura del Corso
 
