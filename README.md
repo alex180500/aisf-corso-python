@@ -16,7 +16,7 @@ Il corso è diviso in due notebook corrispondenti alle due giornate del 21/04/23
 
 # Per Iniziare
 
-Per prima cosa dobbiamo installare Python! Per farlo useremo **Miniconda** che ci installerà `conda`, un gestore di ambienti di Python (per sapere cosa è un ambiente [guarda sotto](#python-ed-ambienti)).
+Per prima cosa dobbiamo installare Python! Per farlo useremo **Miniconda** che ci installerà `conda`, un gestore di ambienti di Python (per sapere cosa è un ambiente [guarda sotto](#conda-e-ambienti)).
 
 Perciò scaricate l'[ultima versione di Miniconda per il vostro OS](https://docs.conda.io/en/latest/miniconda.html), seguite le istruzioni e lasciate tutte le impostazioni come da default. Per maggiori informazioni sull'installazione [consultate qui](https://conda.io/projects/conda/en/stable/user-guide/install/index.html).
 
