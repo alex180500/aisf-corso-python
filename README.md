@@ -8,11 +8,11 @@ Per visualizzare i notebook potete o visualizzarli direttamente su GitHub andand
 
 ## Struttura del Corso
 
-Il corso è diviso in due notebook corrispondenti alle due giornate del 21/04/23 e del 22/04/23. Gli argomenti trattati sono:
+Il corso è diviso in due notebook corrispondenti alle due giornate del 21/04/23 e del 22/04/23. Il corso è anche disponibile su YouTube e gli argomenti trattati sono:
 
-- **Giornata 1:** introduzione, sintassi di base, pacchetti e programmazione ad oggetti, vettori e rng su numpy.
+- **Giornata 1:** introduzione, sintassi di base, pacchetti e programmazione ad oggetti, vettori e rng su numpy. [**Lezione 1 su YouTube.**](https://youtu.be/oLGgBC8Pp6M)
 
-- **Giornata 2:** grafici e stili con matplotlib, funzioni avanzate di numpy, funzioni utili di scipy, fit ai minimi quadrati, esempi di analisi di laboratorio e di simulazioni numeriche.
+- **Giornata 2:** grafici e stili con matplotlib, funzioni avanzate di numpy, funzioni utili di scipy, fit ai minimi quadrati, esempi di analisi di laboratorio e di simulazioni numeriche. [**Lezione 2 su YouTube.**](https://youtu.be/aWpkJit6mSE)
 
 # Per Iniziare
 
